@@ -1,0 +1,14 @@
+.body{
+  text-align:center;
+  background-color:none;
+  color: black;
+}
+.header3 nav ul li{
+  margin-right: 15px;} 
+ .header3 nav ul li a{
+   text-decoration: none;
+   color:blue;
+ }
+. header3 nav ul li a:hover{
+  color:white;
+ 
