@@ -1,0 +1,160 @@
+body{
+  margin-left: 0px
+}
+.header{text-align: center;
+  background-color: green;
+  color: white;
+  padding: 0px;
+  margin: 10px;
+  height: 120px;
+  font-size: 20px;
+  text-shadow: 2px 2px 2px;
+}
+.Aboutvv{
+  background-color: yellow;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.Aboutvv nav ul{
+ display: inline-flex;
+ list-style: none;
+ padding: 2px;
+ margin-top: 0px;
+ margin-right: 50px;
+ float: right;
+ display: inline-flex;
+ list-style: none;
+ padding: 2px;
+ margin-top: 0px;
+ margin-right: 50px;
+ float: right;
+}
+.field1 fieldset{
+  background-color:  slategray;
+  border-radius: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.field1 legend{
+  background-color: white;
+  color: red;
+  border-radius: 10px;
+  
+}
+.legend{
+  background-color: green;
+  color: red;
+}
+subheader nav ul{
+ display: inline-flex;
+ list-style: none;
+ padding: 2px;
+ margin-top: 0px;
+ margin-right: 50px;
+ float: right;
+ 
+}
+.subheader nav ul li{
+  margin-right: 15px;
+}
+.subheader nav ul li a{
+ text-decoration:none;
+ color: black;
+
+ 
+}
+.subheader nav ul li a:hover{
+  color: white;
+  
+}
+.field1 fieldset{
+  background-color:  slategray;
+  border-radius: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.field1 legend{
+  background-color: white;
+  color: red;
+  border-radius: 10px;
+  
+  
+}
+.field2 fieldset{
+  background-color: lightgreen;
+  border-radius: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.field2 legend{
+  background-color: white
+}
+
+.dep{
+  float: right;
+}
+.Env{
+  float: right;
+}
+.Sci{
+  float: right;
+}
+input[type="text"]{
+background-color: white;
+padding-left: 20px;
+}
+textarea{
+  resize: none;
+  background-color: white;
+}
+.About{
+ margin-left: 20px;
+}
+.sex{
+  margin-left: 20px;
+  
+}
+  .sex1{
+    color: red;
+    }
+   .sex2{
+     color: blue
+   }
+.phoneem{
+  margin-left: 20px;
+}
+.computer fieldset{
+  background-color: rgb(230, 230, 250) ;
+  margin:0px;
+  padding: 10px;
+}
+.computer fieldset legend{
+  border-radius: 10px;
+  padding: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+h3{
+  padding-bottom: -100px;
+}
+.department{
+  float: right;
+}
+.level{
+  text-align: center;
+  
+}
+.heritage{ 
+ color: red;
+ font-family: serif;
+  }
+  .submit{
+text-align: center;
+   }
+  button{
+    padding:5px;
+  }
+  .footer{
+    background-color: rgb(230, 230, 250)
+  }
