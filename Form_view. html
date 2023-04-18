@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" type="text/css" href="form_style.css">
+</head>
+
+<body>
+  <div class="header">
+    <h1>SIGN UP</h1>
+  </div>
+  <div class="Aboutvv">
+    <nav>
+      <ul>
+        <li><a href="Aboutme.html" >Aboutme</a></li>
+<li><a href="summary.html"></a>summary</a></li>
+        </ul>
+        </nav>
+  </div>
+  <fieldset>
+   <legend>bio data </legend>
+<div class="Name">
+        <label for="">Name</label><br>
+        <input type="text" style="background-color:white;
+        width: 674px">
+      </div><br>
+      <div class="About">
+        <label for="">Adress</label><br>
+        <textarea cols="76" rows="5" placeholder=""></textarea>
+      </div><br>
+      <div class="sex">
+        <label for="">Sex</label>
+        <input type="radio" name="sex">
+        <label for="" name="sex" class="sex1">Male</label>
+        <input type="radio" name="sex">
+        <label for="" name="sex" class="sex2">Female</label>
+      </div><br>
+      <div class="phoneem">
+        <label for="">Phone number</label><br>
+        <input type="text"><br><br>
+        <label for="">Email</label><br>
+        <div class="gmail">
+          <textarea name="" id="" cols="29" rows="1" placeholder="@gmail.com"></textarea>
+        </div>
+      </div><br>
+      <div class="computer">
+        <fieldset>
+          <legend>School data</legend>
+
+          <h3 style="fornt-family: serif">Faculty</h3>
+          <hr>
+          <input type="checkbox">Engineering
+          <label class="department">Department:
+            <select style="background-color: white">
+              <option selected disabled hidden>Select department</option>
+              <option>Computer Engineering</option>
+              <option>Electrical Engineering </option>
+              <option>Marine Engineering</option>
+            </select>
+          </label>
+          <br>
+          <input type="checkbox">Environmental science
+          <label class="department">Department:
+            <select style="background-color: white">
+              <option selected disabled hidden>Select department</option>
+              <option>Quantity Surveying</option>
+              <option>Architecture </option>
+              <option>Landscaping Architecture</option>
+            </select>
+          </label>
+          <br>
+          <input type="checkbox">Science
+          <label class="department">Department:
+            <select style="background-color: white">
+              <option selected disabled hidden>Select department</option>
+              <option>Medicine 💉</option>
+              <option>Biochemistry </option>
+              <option>Chemistry</option>
+            </select>
+          </label>
+          <hr><br>
+          <div class="level">
+            <p>Level:
+              <select style="background-color: white">
+                <option selected disabled hidden>Select Level
+                <option>100</option>
+                <option>o
+              <br>
+              <br>
+            <div class="heritage">
+              <h2> Heritage polytechnic </h2>
+              <h3>Computer Engineering &copy;ND 1 2023 </h3>
+            </div>
+
+        </fieldset>
+      </div>
+      <br>
+      <div class="submit">
+        <a href="" ><button>Submit</button>
+      </div>
+      
+      </fieldset>
+  </div><br><br>
+<div class="footer">
+<footer> 
+<p><i><marquee class="blink" behavior="alternate" direction="right" scrollamount="10" >Coded by ( okparaji john mbie)</marquee></i></p>
+<br><br>
+</footer>
+
+
+
+
+</body>
+</html>
+<head>
